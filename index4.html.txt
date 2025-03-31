@@ -1,0 +1,41 @@
+<html>
+<head>
+<title> RECUPERACION </title>
+<meta name="recuperacion" conten="encabezado">
+</head>
+<body>
+<center>
+<table border="1" width="800" height="800">
+<tr>
+<td width="160" height="133"><img src="foto1.jpg" width="570" heigth="133"></td>
+<td width="160" height="133"><iframe width="560" height="580" src="https://www.youtube.com/embed/sspJCfpRFT0?si=vEKzcBYrSraeWnWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+<td width="160" height="133"><img src="foto9.jpg" width="570" heigth="133"></td>
+<td width="160" height="133"><iframe width="560" height="590" src="https://www.youtube.com/embed/sspJCfpRFT0?si=vEKzcBYrSraeWnWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+<td width="160" height="133"><img src="foto3.jpg" width="570" heigth="133"></td>
+</tr>
+<tr>
+<td colspan="4" witdh="200" heigth="133"><img src="foto22.jpg" width="2413" heigth="590"></td>
+<td width="160" height="133"><iframe width="560" height="580" src="https://www.youtube.com/embed/tMMmQYlNAA4?si=5SZJesWRSjV7UCpR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td colspan="3" witdh="200" heigth="133"><img src="foto22.jpg" width="1812" heigth="610"></td>
+<td width="160" height="133"><iframe width="580" height="600" src="https://www.youtube.com/embed/hBdiK4yF0vQ?si=jneLPTI9C81s3jHu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+<td width="160" height="133"><img src="foto13.jpg" width="590" heigth="133"></td>
+</tr>
+<tr>
+<td width="160" height="133"> <iframe width="590" height="593" src="https://www.youtube.com/embed/hBdiK4yF0vQ?si=jneLPTI9C81s3jHu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </td>
+<td width="160" height="133"><img src="foto14.jpg" width="573" heigth="133"></td>
+<td colspan="2" witdh="200" heigth="133"><iframe width="1183" height="583" src="https://www.youtube.com/embed/tMMmQYlNAA4?si=5SZJesWRSjV7UCpR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+<td width="160" height="133"><img src="foto16.jpg" width="600" heigth="133"></td>
+</tr>
+<tr>
+<td width="160" height="133"><iframe width="600" height="600" src="https://www.youtube.com/embed/8MjXZaGCHPU?si=gVlYMo0RyAQIZZKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+<td width="160" height="133"><img src="foto2.jpg" width="590" heigth="133"></td>
+<td width="160" height="133"><iframe width="591" height="610" src="https://www.youtube.com/embed/-3FAtpqyx7M?si=JHUnXZX1nvE-CYKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+<td width="160" height="133"><img src="foto20.jpg" width="570" heigth="133"></td>
+<td width="160" height="133"><iframe width="610" height="620" src="https://www.youtube.com/embed/sspJCfpRFT0?si=vEKzcBYrSraeWnWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+</tr>
+</table>
+</center>
+</body>
+</html>
